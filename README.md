@@ -1,7 +1,7 @@
 # EDA_Process
 
 
-![F1 large](https://user-images.githubusercontent.com/45799310/93662269-91f71800-fa7c-11ea-8ff3-2166d2cb5633.jpg)
+
 
 
 Many engineers have never worked in statistics or data science.
