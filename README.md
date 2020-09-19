@@ -16,5 +16,4 @@ Data Science. Measures
 Data Science. Correlation
 Data Science. The Central Limit Theorem and sampling
 
-By the end of your Exploratory Data Analysis step, you'll have a pretty good understanding of the dataset, 
-some notes for data cleaning, and possibly some ideas for feature engineering.
+
