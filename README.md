@@ -17,3 +17,4 @@ Data Science. Correlation
 Data Science. The Central Limit Theorem and sampling
 
 
+![eda-emerge-logo-final](https://user-images.githubusercontent.com/45799310/93662126-41cb8600-fa7b-11ea-962c-ec29c5d05f03.jpg)
